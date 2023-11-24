@@ -9,7 +9,7 @@
 
 ### Curso de Mouredev
 
-Este repositorio solo es para guardar mis apuntes del curso de Mouredev si alguien quiere hacerlo lo puede ver desde este [repositiro](https://github.com/mouredev/hello-sql),
+Este repositorio solo es para guardar mis apuntes del curso de Mouredev si alguien quiere hacerlo lo puede ver desde este [repositorio](https://github.com/mouredev/hello-sql),
 
 ## Enlaces de interés
 
