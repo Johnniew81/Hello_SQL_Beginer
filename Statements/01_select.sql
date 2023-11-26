@@ -1,3 +1,11 @@
+/*La sentencia SELECT se utiliza para seleccionar datos de una base de datos.
+
+Sintaxis
+
+SELECT column1, column2, ...
+FROM table_name;
+*/
+
 -- Obtiene todos los datos de la tabla "users"
 SELECT * FROM users;
 
