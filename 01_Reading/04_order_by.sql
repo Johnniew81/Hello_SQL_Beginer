@@ -1,3 +1,12 @@
+/*La palabra clave ORDER BY se utiliza para ordenar el conjunto de resultados en orden ascendente o descendente.
+
+Sintaxis
+
+SELECT column1, column2, ...
+FROM table_name
+ORDER BY column1, column2, ... ASC|DESC;
+*/
+
 -- Ordena todos los datos de la tabla "users" por edad (ascendente por defecto)
 SELECT * FROM users ORDER BY age;
 

@@ -1,3 +1,21 @@
+/*El operador IS NULL se utiliza para comprobar si existen valores vacíos (valores NULL).
+El operador IS NOT NULL se utiliza para comprobar valores no vacíos (valores NOT NULL).
+La función IFNULL() devuelve un valor especificado si la expresión es NULL.
+
+Si la expresión NO es NULL, esta función devuelve la expresión.
+
+Sintaxis IS NULL 
+
+SELECT column_names
+FROM table_name
+WHERE column_name IS NULL;
+
+Sintaxis IS NOT NULL
+
+SELECT column_names
+FROM table_name
+WHERE column_name IS NOT NULL;
+*/
 -- Obtiene todos datos de la tabla "users" de la tabla "users" con email nulo
 SELECT * FROM users WHERE email IS NULL;
 

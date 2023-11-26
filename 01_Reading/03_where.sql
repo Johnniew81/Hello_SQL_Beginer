@@ -1,3 +1,14 @@
+/*La cláusula WHERE se utiliza para filtrar registros.
+
+Sirve para extraer sólo los registros que cumplen una condición especificada.
+
+Sintaxis
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+*/
+
 -- Filtra todos los datos de la tabla "users" con edad igual a 15
 SELECT * FROM users WHERE age = 15;
 
